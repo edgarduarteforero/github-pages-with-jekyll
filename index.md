@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+title: "Edgar Duarte-Forero"
 ---
 
-I'm glad you are here. I plan to talk about ...
+* Biography
+* Research
+  * Teaching
+  * Personal
